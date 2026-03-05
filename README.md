@@ -19,7 +19,9 @@
 - 🗂️ Git & GitHub  
 
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahdihasanwebsite/contributions?format=svg&private=true)  
+![GitHub metrics](https://metrics.lecoq.io/mahdihasanwebsite)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mahdihasanwebsite)  
 
 
 
