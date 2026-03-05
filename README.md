@@ -1,13 +1,22 @@
-# Hi there 👋
 
-- 🔭 I’m currently working on Web Development Project
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web Developmant Project
-- 🤔 I’m looking for help with Web Developmant 
-- 💬 Ask me about Web Developmant
-- 📫 How to reach me: apatoto nai
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I Love Code
+
+# 👋 Hello, I'm Mahdi Hasan  
+
+## 🚀 About Me  
+💻 Passionate Web Developer  
+🌱 Currently learning JavaScript  
+🔭 Working on Web Development Projects  
+🤝 Open to collaboration on exciting web projects  
+🎯 Goal: Become a Professional Full-Stack Developer  
+
+---
+
+## 🛠️ Skills & Technologies  
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- ⚛️ React (Learning)  
+- 🗂️ Git & GitHub  
 
 
 
