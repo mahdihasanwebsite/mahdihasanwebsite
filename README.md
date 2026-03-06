@@ -19,11 +19,6 @@
 - 🗂️ Git & GitHub  
 
 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mahdihasanwebsite)  
-
-
-
 ## 🌐 Socials:
 [![LinkedIn]
 (https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahdi-hasan-3b08bb3ab/) 
