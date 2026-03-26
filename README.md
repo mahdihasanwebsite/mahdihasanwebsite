@@ -1,6 +1,6 @@
 
 
-  # 👋 Hello, I'm Mahdi Hasan  
+  # 👋                         Hello, I'm Mahdi Hasan  
 
 ## 🚀 About Me  
 💻 Passionate Web Developer  
@@ -41,5 +41,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mahdihasanwebsite&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
